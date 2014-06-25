@@ -1,3 +1,2 @@
-The project shows how to create and develop web projects using a Grails framework and others java-based techniques.
+The project is attempt to create web projects using a Grails framework and others java-based techniques.
 
-(c) Gordeev Roman
